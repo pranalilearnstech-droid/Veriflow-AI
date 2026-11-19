@@ -6,12 +6,12 @@
 
 Built for **HACK-VERSE 2026** · Problem Statement 1 · **Team ByteForce**
 
-[![Live demo](https://img.shields.io/badge/Live_demo-online-2563EB?style=flat-square)](https://pranali-2006.github.io/Veriflow-AI/)
+[![Live demo](https://img.shields.io/badge/Live_demo-online-2563EB?style=flat-square)](https://pranalilearnstech-droid.github.io/Veriflow-AI/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-0E9F6E?style=flat-square)](LICENSE)
 [![Built with](https://img.shields.io/badge/Built_with-Vanilla_JS-D97706?style=flat-square)](#tech-stack)
 [![No backend](https://img.shields.io/badge/Backend-none_required-7C3AED?style=flat-square)](#privacy)
 
-[**Open the live demo →**](https://pranali-2006.github.io/Veriflow-AI/)
+[**Open the live demo →**](https://pranalilearnstech-droid.github.io/Veriflow-AI/)
 
 </div>
 
